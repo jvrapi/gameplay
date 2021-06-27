@@ -21,7 +21,7 @@
 
 
 ## :open_book: Sobre
-Projeto desenvolvido durante a NLW Together, na trilha ReactNative da RocketSeat.
+Projeto desenvolvido durante a NLW Together, na trilha React Native da RocketSeat.
 
 
 ## :rocket: Tecnologias
