@@ -5,7 +5,7 @@
   <a href="#open_book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="i-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -39,7 +39,7 @@ Projeto desenvolvido durante a NLW Together, na trilha React Native da RocketSea
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/bT2L877FgoOWR1lF1f8iwH/GamePlay/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-## ℹ Como usar
+## :information_source: Como usar
 
 Para clonar e rodar esse projeto, você precisará do [Git](https://git-scm.com) e do  [Node.js v14.16](https://nodejs.org) ou maior, você também precisará da CLI do [Expo](https://docs.expo.io). No projeto, foi utilizado também o [Yarn v1.22.5](https://yarnpkg.com). Na sua interface de linha de comandos, execute:
 
